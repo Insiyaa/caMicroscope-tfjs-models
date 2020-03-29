@@ -1,3 +1,5 @@
+This repository is further maintained under [camicroscope/tfjs-models](https://github.com/camicroscope/tfjs-models).
+
 # caMicroscope-tfjs-models
 Classification and segmentation sample models for caMicroscope.
 
